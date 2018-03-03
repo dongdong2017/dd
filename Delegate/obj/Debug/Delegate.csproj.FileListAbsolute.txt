@@ -1,0 +1,6 @@
+c:\users\xumenglin\documents\visual studio 2015\Projects\ThreadTest\Delegate\bin\Debug\Delegate.exe.config
+c:\users\xumenglin\documents\visual studio 2015\Projects\ThreadTest\Delegate\bin\Debug\Delegate.exe
+c:\users\xumenglin\documents\visual studio 2015\Projects\ThreadTest\Delegate\bin\Debug\Delegate.pdb
+c:\users\xumenglin\documents\visual studio 2015\Projects\ThreadTest\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+c:\users\xumenglin\documents\visual studio 2015\Projects\ThreadTest\Delegate\obj\Debug\Delegate.exe
+c:\users\xumenglin\documents\visual studio 2015\Projects\ThreadTest\Delegate\obj\Debug\Delegate.pdb
