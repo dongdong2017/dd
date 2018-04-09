@@ -32,7 +32,7 @@ namespace Tasktest
 
         static void Main(string[] args)
         {
-            string accName = "aa";
+            string accName = "aaa";
             //var accountid = Task.Run(async () =>
             //{
             //    return await ImportAccId(accName);
@@ -40,7 +40,7 @@ namespace Tasktest
             var accountid = ImportAccId(accName).Result;
             Console.WriteLine(accountid);
             Console.ReadKey();
-
+            
             //测试
             //在测试
             //以后可以一起开发了
